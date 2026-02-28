@@ -1,0 +1,6 @@
+{
+  "use_color": true,
+  "preferred_mode": "docker-single-node",
+  "rpc_url": "http://localhost:8080",
+  "language": "ru"
+}
